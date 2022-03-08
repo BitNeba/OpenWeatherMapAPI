@@ -1,0 +1,506 @@
+[{
+  "city": {
+    "id": 3435910,
+    "name": "Buenos Aires",
+    "findname": "BUENOS AIRES",
+    "country": "AR",
+    "coord": {
+      "lon": -58.377232,
+      "lat": -34.613152
+    },
+    "zoom": 1,
+	"langs": [
+      {
+        "en": "Buenos Aires"
+      } 
+    ]
+  },
+  "time": 1489490831,
+  "main": {
+    "temp": 290.51,
+    "pressure": 1014,
+    "humidity": 82,
+    "temp_min": 289.15,
+    "temp_max": 291.15
+  },
+  "wind": {
+    "speed": 2.1,
+    "deg": 70
+  },
+  "clouds": {
+    "all": 0
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "Sky is Clear",
+      "icon": "&#x263C;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 344979,
+    "name": "Addis Ababa",
+    "findname": "ADDIS ABABA",
+    "country": "ET",
+    "coord": {
+      "lon": 38.746891,
+      "lat": 9.02497
+    },
+    "zoom": 4,
+    "langs": [
+      {
+        "en": "Addis Ababa"
+      },
+      {
+        "eo": "Adis-Abebo"
+      }   
+    ]
+  },
+  "time": 1489492471,
+  "main": {
+    "temp": 299.15,
+    "pressure": 1024,
+    "temp_min": 299.15,
+    "temp_max": 299.15,
+    "humidity": 17
+  },
+  "wind": {
+    "speed": 5.1,
+    "deg": 130
+  },
+  "clouds": {
+    "all": 20
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "&#x26C5;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 703448,
+    "name": "Kiev",
+    "findname": "KIEV",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.433334
+    },
+    "zoom": 4,
+    "langs": [
+      {
+        "en": "Kiev"
+      }  
+    ]
+  },
+  "time": 1489488530,
+  "main": {
+    "temp": 276.81,
+    "pressure": 1021,
+    "humidity": 80,
+    "temp_min": 276.15,
+    "temp_max": 277.15
+  },
+  "wind": {
+    "speed": 5,
+    "deg": 30
+  },
+  "clouds": {
+    "all": 90
+  },
+  "weather": [
+    {
+      "id": 300,
+      "main": "Drizzle",
+      "description": "light intensity drizzle",
+      "icon": "&#x1F324;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 2950159,
+    "name": "Berlin",
+    "findname": "BERLIN",
+    "country": "DE",
+    "coord": {
+      "lon": 13.41053,
+      "lat": 52.524368
+    },
+    "zoom": 4,
+    "langs": [
+      {
+        "en": "Berlin"
+      }  
+    ]
+	
+  },
+  "time": 1489489383,
+  "main": {
+    "temp": 279.15,
+    "pressure": 1029,
+    "humidity": 81,
+    "temp_min": 279.15,
+    "temp_max": 279.15
+  },
+  "wind": {
+    "speed": 4.1,
+    "deg": 250,
+    "var_beg": 220,
+    "var_end": 280
+  },
+  "clouds": {
+    "all": 75
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "&#x1F325;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 2172517,
+    "name": "Canberra",
+    "findname": "CANBERRA",
+    "country": "AU",
+    "coord": {
+      "lon": 149.128067,
+      "lat": -35.283459
+    },
+    "zoom": 7,
+    "langs": [
+      {
+        "en": "Canberra"
+      }
+    ]
+  },
+  "time": 1489491968,
+  "main": {
+    "temp": 285.69,
+    "pressure": 1023,
+    "humidity": 82,
+    "temp_min": 281.15,
+    "temp_max": 291.15
+  },
+  "wind": {
+    "speed": 4.1,
+    "deg": 110
+  },
+  "clouds": {
+    "all": 92
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "&#x1F327;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 2988507,
+    "name": "Paris",
+    "findname": "PARIS",
+    "country": "FR",
+    "coord": {
+      "lon": 2.3488,
+      "lat": 48.853409
+    },
+    "zoom": 1,
+    "langs": [
+      {
+        "en": "Paris"
+      }
+    ]
+  },
+  "time": 1489492514,
+  "main": {
+    "temp": 285.98,
+    "pressure": 1034,
+    "humidity": 47,
+    "temp_min": 285.15,
+    "temp_max": 287.15
+  },
+  "wind": {
+    "speed": 2.1,
+    "deg": 260,
+    "var_beg": 190,
+    "var_end": 330
+  },
+  "clouds": {
+    "all": 40
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "&#x26C5;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 2267226,
+    "name": "Lagos",
+    "findname": "LAGOS",
+    "country": "PT",
+    "coord": {
+      "lon": -8.67422,
+      "lat": 37.10202
+    },
+    "zoom": 9,
+    "langs": [
+      {
+        "en": "Lagos"
+      }
+    ]
+  },
+  "time": 1489488411,
+  "main": {
+    "temp": 287.15,
+    "pressure": 1019,
+    "humidity": 54,
+    "temp_min": 287.15,
+    "temp_max": 287.15
+  },
+  "wind": {
+    "speed": 7.7,
+    "deg": 70,
+    "gust": 12.9
+  },
+  "clouds": {
+    "all": 20
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "&#x26C5;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 108410,
+    "name": "Riyadh",
+    "findname": "RIYADH",
+    "country": "SA",
+    "coord": {
+      "lon": 46.721851,
+      "lat": 24.687731
+    },
+    "zoom": 1,
+    "langs": [
+      {
+        "en": "Riyadh"
+      }
+    ]
+  },
+  "time": 1489489404,
+  "main": {
+    "temp": 296.15,
+    "pressure": 1017,
+    "humidity": 27,
+    "temp_min": 296.15,
+    "temp_max": 296.15
+  },
+  "wind": {
+    "speed": 3.6,
+    "deg": 100
+  },
+  "clouds": {
+    "all": 75
+  },
+  "weather": [
+    {
+      "id": 761,
+      "main": "Dust",
+      "description": "dust",
+      "icon": "&#x1F32B;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 4905006,
+    "name": "Ottawa",
+    "findname": "OTTAWA",
+    "country": "US",
+    "coord": {
+      "lon": -88.842583,
+      "lat": 41.345589
+    },
+    "zoom": 9,
+    "langs": [
+      {
+        "en": "Ottawa"
+      }
+    ]
+  },
+  "time": 1489489420,
+  "main": {
+    "temp": 267.28,
+    "pressure": 1025,
+    "humidity": 73,
+    "temp_min": 265.15,
+    "temp_max": 269.15
+  },
+  "wind": {
+    "speed": 8.7,
+    "deg": 20,
+    "gust": 11.3
+  },
+  "clouds": {
+    "all": 90
+  },
+  "weather": [
+    {
+      "id": 600,
+      "main": "Snow",
+      "description": "light snow",
+      "icon": "&#x2603;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 943882,
+    "name": "Virginia",
+    "findname": "VIRGINIA",
+    "country": "ZA",
+    "coord": {
+      "lon": 26.865931,
+      "lat": -28.10391
+    },
+    "zoom": 9,
+    "langs": [
+      {
+        "en": "Virginia"
+      }
+    ]
+  },
+  "time": 1489491237,
+  "main": {
+    "temp": 301.664,
+    "temp_min": 301.664,
+    "temp_max": 301.664,
+    "pressure": 874.47,
+    "sea_level": 1024.93,
+    "grnd_level": 874.47,
+    "humidity": 52
+  },
+  "wind": {
+    "speed": 2.91,
+    "deg": 267.501
+  },
+  "clouds": {
+    "all": 0
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "Sky is Clear",
+      "icon": "&#x263C;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 184745,
+    "name": "Nairobi",
+    "findname": "NAIROBI",
+    "country": "KE",
+    "coord": {
+      "lon": 36.816669,
+      "lat": -1.28333
+    },
+    "zoom": 1,
+    "langs": [
+      {
+        "en": "Nairobi"
+      }
+    ]
+  },
+  "time": 1489489706,
+  "main": {
+    "temp": 302.05,
+    "pressure": 1018,
+    "humidity": 28,
+    "temp_min": 301.15,
+    "temp_max": 303.15
+  },
+  "wind": {
+    "speed": 6.2,
+    "deg": 80
+  },
+  "clouds": {
+    "all": 20
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "&#x26C5;"
+    }
+  ]
+},
+{
+  "city": {
+    "id": 342884,
+    "name": "Bahir Dar",
+    "findname": "BAHIR DAR",
+    "country": "ET",
+    "coord": {
+      "lon": 37.39077,
+      "lat": 11.59364
+    },
+    "zoom": 6,
+    "langs": [
+      {
+        "en": "Bahir Dar"
+      }
+    ]
+  },
+  "time": 1489491862,
+  "main": {
+    "temp": 299.914,
+    "temp_min": 299.914,
+    "temp_max": 299.914,
+    "pressure": 805.41,
+    "sea_level": 1016.34,
+    "grnd_level": 805.41,
+    "humidity": 42
+  },
+  "wind": {
+    "speed": 1.66,
+    "deg": 351.501
+  },
+  "clouds": {
+    "all": 44
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "&#x1F324;"
+    }
+  ]
+}]

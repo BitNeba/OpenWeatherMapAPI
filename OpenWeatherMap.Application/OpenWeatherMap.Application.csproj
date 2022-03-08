@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenWeatherMap.Application.Contract\OpenWeatherMap.Application.Contract.csproj" />
+    <ProjectReference Include="..\OpenWeatherMap.Domain\OpenWeatherMap.Domain.csproj" />
+    <ProjectReference Include="..\OpenWeatherMap.Repository\OpenWeatherMap.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
